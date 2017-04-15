@@ -10,6 +10,7 @@
 
     "event-stream": "3.3.2",
     "gulp": "3.9.1",
+    "gulp-cli": "1.2.2",
     "gulp-expect-file": "0.0.7",
     "gulp-sass": "3.0.0",
     "gulp-plumber": "1.1.0",
