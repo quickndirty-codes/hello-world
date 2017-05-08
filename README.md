@@ -10,4 +10,4 @@ Make sure Node & Npm are installed. Refer to: https://nodejs.org/en/download/
     
 **For more details**
 
-Check: https://www.quickndirty.codes/2017/04/my-simple-boilerplate-for-playing-with.html
+Check: https://www.quickndirty.codes/index.php/2017/05/07/my-simple-boilerplate-for-playing-with-htmlcss/
